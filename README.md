@@ -2,7 +2,7 @@
 
 An ongoing log of every issue I experience with Deutsch Bahn.
 
-![A clip From Superman the Movie](./images/animated/superman_man_this_is_going_to_be_good.gif "'Man, this is going to be good!' - Superman")
+![A clip From Superman the Movie](./images/animated/superman_man_this_is_going_to_be_good.gif "'Man, this is going to be good!' - Superman" | width=200)
 
 People who have never lived in Germany often cite Germany as a reliable, punctual country where everything runs on time. The truth is, that DB trains are as late, cancelled and delayed as trains in Italy, the UK, or Ireland.
 
