@@ -1,6 +1,6 @@
 # 🚝 Wir bitten um Entschuldigung 🚨
 
-An ongoing log of every issue I experience with Deutsch Bahn.
+An ongoing log of every issue I experience with Deutsche Bahn.
 
 ![A clip From Superman the Movie](./images/animated/superman_man_this_is_going_to_be_good.gif "'Man, this is going to be good!' - Superman")
 
