@@ -32,7 +32,7 @@ I only started making notes in 2023 so all my journeys before I can't document. 
 ## 2023
 
 > [!IMPORTANT]  
-> Customer Announcement: Trips before september fallen aus - ich bitte um entschuldigung.
+> **Customer Announcement:** Trips before september fallen aus - ich bitte um entschuldigung.
 
 I didn't travel very much this year, but due to the Deutschland-Ticket I have been travelling a lot on local trains rather than long distance ones.
 
