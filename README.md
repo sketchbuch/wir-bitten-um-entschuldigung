@@ -24,7 +24,7 @@ Unexploded Bomb        | 0
 
 ### 2023-12-18
 
-![DB App showing delays to the train](./images/2023-12-18/20231218_081420_DB%20Navigator.jpg | width=100)
+![DB App showing delays to the train](./images/2023-12-18/20231218_081420_DB%20Navigator.jpg){: width="50px"}
 ![DB App showing delays to the train](./images/2023-12-18/20231218_081441_DB%20Navigator.jpg)
 ![DB App showing delays to the train](./images/2023-12-18/20231218_085445_DB%20Navigator.jpg)
 
