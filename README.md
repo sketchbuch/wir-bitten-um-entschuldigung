@@ -16,37 +16,45 @@ There is nothing magical about German trains, although I will admit that 2nd cla
 
 ## Issue Tracker
 
-Description            | Count
+Description            | 2023
 ---------------------- | -----
-Cancellation           | 0
+Cancellation           | 1
 Car on the line        | 1
-Delays                 | 1
+Delays                 | 2
 People on the line     | 0
 Smoking in the toilets | 1
 Strike                 | 0
 Technical Problem      | 0
-Unexploded Bomb        | 0
+Unexploded Bomb        | 1
 
 I only started making notes in 2023 so all my journeys before I can't document. I would estimate that less than 5% of my travels have actually been on time and without incident.
 
 ## 2023
 
-> [!IMPORTANT]  
+> [!CAUTION]  
 > **Customer Announcement:** Trips before september fallen aus - ich bitte um entschuldigung.
 
 I didn't travel very much this year, but due to the Deutschland-Ticket I have been travelling a lot on local trains rather than long distance ones.
 
-### 24th of December - Stendal to Leipzig
+### 24th of December - Conductor Scroodge
+
+*Stendal to Leipzig*
 
 <img src="./images/2023-12-24/20231224_102615_DB Navigator.jpg" height="200" alt="DB App showing the train timetable for my journey from Stendal to Leipzig">
 
-The train was nearly on time, but again a threat was made to stop at magdeburg if people kept smoking in the toilets.
+The train was nearly on time, but again a threat was made to stop at Magdeburg if people kept smoking in the toilets.
 
-This was exactly the same train that had this issue before. The conductor said if it happens again, he will call the Police, and the Fire Brigade at Magdeburg and it will be a 2 hour delay and no one would get home - this was Christmas Eve - and just like on the previous occassion there was no evidence of any smoking, just shoddy old trains which probably have defective smoke detectors. Or the conductor just likes demonstrating his power and enjoys scaring the old people travelling on the train.
+This was exactly the same train that had this issue before. The conductor, who was full of Christmas cheer, said if it happens again he will call the Police, and the Fire Brigade at Magdeburg and it will be a 2 hour delay and no one would get home.
+
+This was Christmas Eve, the conductor would make Charles Dickens proud. Bah, Humbug!
+
+Just like on the previous occassion there was no evidence of any smoking, just shoddy old trains which probably have defective smoke detectors. Or the conductor just likes demonstrating his power and enjoys scaring the old people travelling on the train.
 
 Eventually made it Leipzig about 5 minutes lat due to stopping to let other trains past.
 
-### 18th of December - Leipzig to Uchtspringer
+### 18th of December - Idiot decides to drive across the railway tracks
+
+*Leipzig to Uchtspringer*
 
 <img src="./images/2023-12-18/20231218_081420_DB Navigator.jpg" height="200" alt="DB App showing delays to the train timetable for my journey from Leipzig to Uchtspringer">
 <img src="./images/2023-12-18/20231218_081441_DB%20Navigator.jpg" height="200" alt="DB App showing issues with the train from Leipzig to Uchtspringer">
@@ -89,3 +97,27 @@ Having missed a hospital appointment in Uchtspringer I eventually made it back t
 ### 2023-09-20
 
 ### 2023-09-14
+
+### 2023-08-19 Danger UXB!
+
+*Warnemünde - Leipzig*
+
+I was on holiday in Warnemünder with my Partner, and on the way back - about 200m from Rostock Main Station - our train stopped.
+
+After a while we got told that a Bomb had been unearthed near Rostock Station and that we would have to go back to Warnemünde.
+
+On the way back we got told by conductors that (in english and german) about the bomb and that there would be busses waiting for us. I told my partner not to get her hopes up.
+
+We arrived back at Warnemünde to find that there was no trains any more, there was also no bus like we had been told - what a shocker!
+
+An old german woman was complaining to DB employees and asking where the bus was - they said they had no idea and carried on smoking and talking about what they were going to do after work.
+
+Everyone on the train was left to get to Rostock by themselves - DB gave no information except to say that the bomb disposal squad was coming from Schwerin and it would take several hours.
+
+We had booked first class on ICE's from Warnemünde to Berlin and then from Berlin to Leipzig.
+
+Now we had to travel by boat to Rostock as this was the only possibility. After 30 minutes of waiting and 2 hours of sailing we made it to find that there were trains still leaving Rostock. The only one we could find was an IC 2nd class.
+
+It was delayed and during the trip to Berlin we heard on the news that the bomb wasn't a bomb... What was going to be about 3.5 hours in 1st class turned out to be about 7 hours on a boat, an IC and then an ICE to Leipzig.
+
+A typical day travelling with trains through germany thanks to DB and a piece of piping dug up by builders.
