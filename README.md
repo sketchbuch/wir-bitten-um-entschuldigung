@@ -24,15 +24,15 @@ Unexploded Bomb        | 0
 
 ### 2023-12-18
 
-![DB App showing delays to the train](./images/2023-12-18/20231218_081420_DB%20Navigator.jpg){: width="50px"}
-![DB App showing delays to the train](./images/2023-12-18/20231218_081441_DB%20Navigator.jpg)
-![DB App showing delays to the train](./images/2023-12-18/20231218_085445_DB%20Navigator.jpg)
+<img src="./images/2023-12-18/20231218_081420_DB Navigator.jpg" height="200" alt="DB App showing delays to the train timetable for my journey" align="right" >
+<img src="./images/2023-12-18/20231218_081441_DB%20Navigator.jpg" height="200" align="right" alt="DB App showing issues with the train from Leipzig to Stendal">
+<img src="./images/2023-12-18/20231218_085445_DB%20Navigator.jpg)" height="200" align="right" alt="DB App showing issues with the train from Leipzig to Stendal in german">
 
 Another day, another disappointing DB journey that began at 5am, so that I could get the 7am train that I needed.
 
 Whilst travelling between Leipzig and Uchtspringer via Stendal and Magdeburg, I managed to make it as far as Dessau before the train ground to a halt at Platform 1
 
-At first no information was given but after a while the DB app and the announcements at Dessau conceded that the issue was a car on the line between Dessau and Güterglück and that no trains would be going anywhere.
+At first no information was given but after a while the DB App and the announcements at Dessau conceded that the issue was a car on the line between Dessau and Güterglück and that no trains would be going anywhere.
 
 This is after keeping everyone on the train waiting for 20 minutes. I had to go back to Leipzig, which took a while as the trains to Leipzig were also delayed. I waited for the next train to leipzig, I had missed one as the train I arrived on when back to Leipzig 5 minutes after they told evryone to get off.
 
