@@ -1,6 +1,6 @@
 # 🚝 Wir bitten um Entschuldigung 🚨
 
-An ongoing log of every issue I experience with Deutsche Bahn (DB).
+An on-going log of every issue I experience with Deutsche Bahn (DB).
 
 --------------------------------------------------------------------------------
 
@@ -56,9 +56,7 @@ Eventually made it Leipzig about 5 minutes lat due to stopping to let other trai
 
 *Leipzig to Uchtspringer*
 
-<img src="./images/2023-12-18/20231218_081420_DB Navigator.jpg" height="200" alt="DB App showing delays to the train timetable for my journey from Leipzig to Uchtspringer">
-<img src="./images/2023-12-18/20231218_081441_DB%20Navigator.jpg" height="200" alt="DB App showing issues with the train from Leipzig to Uchtspringer">
-<img src="./images/2023-12-18/20231218_085445_DB%20Navigator.jpg" height="200" alt="DB App showing issues with the train from Leipzig to Uchtspringer">
+<img src="./images/2023-12-18/20231218_081420_DB Navigator.jpg" height="200" alt="DB App showing delays to the train timetable for my journey from Leipzig to Uchtspringer"> <img src="./images/2023-12-18/20231218_081441_DB%20Navigator.jpg" height="200" alt="DB App showing issues with the train from Leipzig to Uchtspringer"> <img src="./images/2023-12-18/20231218_085445_DB%20Navigator.jpg" height="200" alt="DB App showing issues with the train from Leipzig to Uchtspringer">
 
 Another day, another disappointing DB journey that began at 5am, so that I could get the 7am train that I needed.
 
