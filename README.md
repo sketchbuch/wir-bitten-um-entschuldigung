@@ -22,11 +22,13 @@ Unexploded Bomb        | 0
 
 ## 2023
 
-### 2023-12-18
+### 2023-12-18 Leipzig to Stendal
 
-<img src="./images/2023-12-18/20231218_081420_DB Navigator.jpg" height="200" alt="DB App showing delays to the train timetable for my journey" align="right" >
-<img src="./images/2023-12-18/20231218_081441_DB%20Navigator.jpg" height="200" align="right" alt="DB App showing issues with the train from Leipzig to Stendal">
-<img src="./images/2023-12-18/20231218_085445_DB%20Navigator.jpg)" height="200" align="right" alt="DB App showing issues with the train from Leipzig to Stendal in german">
+<img src="./images/2023-12-18/20231218_081420_DB Navigator.jpg" height="200" alt="DB App showing delays to the train timetable for my journey">
+<img src="./images/2023-12-18/20231218_081441_DB%20Navigator.jpg" height="200" alt="DB App showing issues with the train from Leipzig to Stendal">
+<img src="./images/2023-12-18/20231218_085445_DB%20Navigator.jpg" height="200" alt="DB App showing issues with the train from Leipzig to Stendal in german">
+
+
 
 Another day, another disappointing DB journey that began at 5am, so that I could get the 7am train that I needed.
 
