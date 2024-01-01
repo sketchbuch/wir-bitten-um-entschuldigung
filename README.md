@@ -10,11 +10,41 @@ There is nothing magical about German trains, although I will admit that 2nd cla
 
 ## Deutschland-Ticket
 
-...
+The Germany Ticket (Deutschland-Ticket or Deutschlandkarte) lets you travel on nearly all local transport (bus, tram, train).
+
+But the operators have forced it to be a subscription ticket as they don't want tourists using it and want to cause as many headaches as possible for travelers.
+
+You can't buy it from a machine, you have to waste hours at a local travel company service centre or the DB service centre getting the ticket.
+
+If you are a tourist staying several weeks it would be cheaper to buy a Duetschland-Ticket subscription (which my partner did this summer for 1 month) then buy regular tickets.
+
+Getting it from DB is the easiest as you don't need to wait for a physical card. It is all done in the app.
+
+You should then cancel the subscription a few days after buying it. Just make sure this is done in-app before the end of the month or you will get charged for the next month too.
+
+Also note, that several popular tourist destinations are not valid with the DT even if you travel on local trains - DB trying to milk tourist for all they can get.
 
 ## Cancelled Trains
 
-...
+DB loves to cancel trains... and they delight in sending you emails informing you too. What they don't tell you is that the trains are replaced so if you are new in germany you might panic and think you need to buy a new ticket - one wonders if they do this on purpose.
+
+Also why do they tell you that the train is cancelled? They are forcing their internal business logic on to customers. 
+
+If I book a train to Münich I don't care if it train DB12345 or DB22345 - It still shows as ICE 2007 on the display.
+
+They should just replace the trains without telling anyone as it makes no difference at all except if the number of seats has changed - but then just say this, don't say the train has been cancelled.
+
+## Paper Tickets Trump Digital
+
+On one of my trips where the train was replaced and no one had seats, two german passengers on the seat in front of me were arguing about seats and asked for help from the conductor.
+
+Eventually they got the issue sorted out but I overheard the conductor say that paper tickets take priority over app tickets.
+
+Then she explained that if someone has a seat reserved on the app, but someone else also has the same seat reserved and has printed their reservation out or bought their ticket from a machine/customer services they have priority and the person with the digital ticket will have to find another seat.
+
+So much for digitalisation making things better! Remember always to print out your tickets - I guess DB doesn't care much about saving the planet.
+
+Whoever booked their ticket first should have priority - and DB's system shouldn't allow such a cock-up in the first place.
 
 ---
 
@@ -22,16 +52,18 @@ There is nothing magical about German trains, although I will admit that 2nd cla
 
 Description                | 2023
 -------------------------- | -----
-Cancellation               | 2
+Cancellation               | 3
 Car on the line            | 1
-Delays                     | 1
+Delays                     | 2
 People/Animals on the line | 1
 Smoking in the toilets     | 1
-Strike                     | 0
-Technical Problem          | 1
+Technical Problem          | 2
 Unexploded Bomb            | 1
+Vandalism                  | 1
+**Total Issues**           | **12**
+**Trips Logged**           | **8**
 
-I only started making notes in 2023 so all my journeys before I can't document. I would estimate that less than 5% of my travels have actually been on time and without incident.
+I only started making notes in 2023 so all my journeys before I can't document. I would estimate that less than 5% of my travels have actually been on time and without incident in the last 3 years.
 
 ## 2023
 
@@ -132,11 +164,31 @@ Again, things on the line that shouldn't be there - this time it's animals - wit
 
 This wouldn't be an issue if DB would lengthen and increase the number of local trains - It's not like they could claim not to know what effect the Deutschland-Ticket would have on passenger numbers.
 
-### 2023-10-04
+### 4th of October - Zero minutes to change trains
 
-### 2023-09-20
+*Uchtspringer to Leipzg*
 
-### 2023-09-14
+<img src="./images/2023-10-04/20231004_145039_DB Navigator.jpg" height="200" alt="DB App showing the delay for my journey from Uchtspringer to Leipzg"> <img src="./images/2023-10-04/20231004_165127_DB Navigator.jpg" height="200" alt="DB App showing the delay for my journey from Uchtspringer to Leipzg"> <img src="./images/2023-10-04/20231004_185925_DB Navigator.jpg" height="200" alt="DB App showing the delay for my journey from Uchtspringer to Leipzg">
+
+Another typical delay leaving me with no way to catch my connecting train.
+
+The later train was hit by vanadlism. Luckily, the driver managed to make up for lost time and I was only a few minutes late.
+
+### 20th of September - Repairs and People on the Line
+
+*Frankfurt Airport to Leipzig*
+
+<img src="./images/2023-09-20/20230920_191331_DB Navigator.jpg" height="200" alt="DB App showing the delay for my journey from Frankfurt Airport to Leipzig*">
+
+Thanks to idiots on the line and poor maintenance of rolling stock, my trip to Leipzig was delayed by nearly 15 minutes - I'm glad I didn't need to change trains or I wouldn't have made it.
+
+### 14th of September
+
+*Leipzig to Frankfurt Airport*
+
+<img src="./images/2023-09-14/20230914_145434_DB Navigator.jpg" height="200" alt="DB App showing the delay for my journey from Leipzig to Frankfurt Airport"> <img src="./images/2023-09-14/20230914_150650_Gmail.jpg" height="200" alt="Email showing lack of reservations for my journey from Leipzig to Frankfurt Airport"> <img src="./images/2023-09-14/20230914_151856_DB Navigator.jpg" height="200" alt="DB App showing the delay for my journey from Leipzig to Frankfurt Airport">
+
+Train repairs (as usual), and a replacement train meaning no seats could be reserved.
 
 ### 19th of August - Danger UXB!
 
