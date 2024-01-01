@@ -20,16 +20,16 @@ There is nothing magical about German trains, although I will admit that 2nd cla
 
 ## Issue Tracker
 
-Description            | 2023
----------------------- | -----
-Cancellation           | 2
-Car on the line        | 1
-Delays                 | 4
-People on the line     | 0
-Smoking in the toilets | 1
-Strike                 | 0
-Technical Problem      | 1
-Unexploded Bomb        | 1
+Description                | 2023
+-------------------------- | -----
+Cancellation               | 2
+Car on the line            | 1
+Delays                     | 1
+People/Animals on the line | 1
+Smoking in the toilets     | 1
+Strike                     | 0
+Technical Problem          | 1
+Unexploded Bomb            | 1
 
 I only started making notes in 2023 so all my journeys before I can't document. I would estimate that less than 5% of my travels have actually been on time and without incident.
 
@@ -122,10 +122,15 @@ What was supposed to be a fast journey of about three and a quarter hours ended 
 
 Anyone needing to change trains in München would have definitely missed their connection.
 
+### 16th of October - Who Let the Dogs Out?
 
-### 2023-10-19
+*Dessau to Leipzig*
 
-### 2023-10-16
+<img src="./images/2023-10-16/" height="200" alt="DB App showing the delay for my journey from Dessau to Leipzig due to animals on the line">
+
+Again, things on the line that shouldn't be there - this time it's animals - with delays also caused by huge numbers of passengers.
+
+This wouldn't be an issue if DB would lengthen and increase the number of local trains - It's not like they could claim not to know what effect the Deutschland-Ticket would have on passenger numbers.
 
 ### 2023-10-04
 
