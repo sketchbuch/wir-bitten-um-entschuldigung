@@ -27,7 +27,7 @@ You should then cancel the subscription a few days after buying it. Just make su
 
 Also note, that several popular tourist destinations are not valid with the DT even if you travel on local trains - DB trying to milk tourist for all they can get.
 
-DB know that there are more people too, but do they increase the size or frequency of the local trains? Nope... this way they can force people to buy more expensive regional train tickets.
+DB know that there are more people too, but do they increase the size or frequency of the local trains? Nope... this way they can force people to buy more expensive long distance train tickets.
 
 ## Cancelled Trains
 
