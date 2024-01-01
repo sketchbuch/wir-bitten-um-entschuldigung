@@ -173,7 +173,7 @@ Later, during the trip another announcement: If the speed gets any lower we will
 
 Luckily, or so I thought, we were able to stay on the fast track. But then stopped in the middle of the route for an hour due to technical issues. :(
 
-What was supposed to be a fast journey of about three and a quarter hours ended up taking five an a half hours.
+What was supposed to be a fast journey of about three and a quarter hours ended up taking five and a half hours.
 
 Anyone needing to change trains in München would have definitely missed their connection.
 
