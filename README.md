@@ -19,7 +19,7 @@ But the operators have forced it to be a subscription ticket as they don't want 
 
 You can't buy it from a machine, you have to waste hours at a local travel company service centre or the DB service centre getting the ticket.
 
-If you are a tourist staying several weeks it would be cheaper to buy a Duetschland-Ticket subscription (which my partner did this summer for 1 month) then buy regular tickets.
+If you are a tourist staying several weeks it would be cheaper to buy a Deutschland-Ticket subscription (which my partner did this summer for 1 month) then buy regular tickets.
 
 Getting it from DB is the easiest as you don't need to wait for a physical card. It is all done in the app.
 
