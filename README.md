@@ -93,7 +93,7 @@ I didn't travel very much this year, but due to the Deutschland-Ticket I have be
 
 The train from Uchtspringer to Stendal was delayed, and left us 3 minutes to run from platform 5 to platfrom 7 (which is at the end of platform 1).
 
-There were some people who were disabled who couldn't make this and had to wait at least an hour for the next train.
+There were some people who were disabled who couldn't make this and had to wait at least two hours for the next train - they only run every two hours on weekends and holidays.
 
 ### 24th of December - Conductor Scroodge
 
