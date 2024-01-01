@@ -8,6 +8,9 @@ People who have never lived in Germany often cite it as a reliable, punctual cou
 
 There is nothing magical about German trains, although I will admit that 2nd class on an ICE makes 1st class in the UK look like 3rd class, but don't rely on DB to get you where you want to go.
 
+> [!CAUTION]  
+> **Customer Announcement:** These are my opions and experiences - ich bitte um verständnis.
+
 ## Deutschland-Ticket
 
 The Germany Ticket (Deutschland-Ticket or Deutschlandkarte) lets you travel on nearly all local transport (bus, tram, train).
@@ -46,6 +49,16 @@ So much for digitalisation making things better! Remember always to print out yo
 
 Whoever booked their ticket first should have priority - and DB's system shouldn't allow such a cock-up in the first place.
 
+## BahnCards
+
+There are various discounts, if you are only travelling infrequently and don't need to change trains much the BahnCard 25 is good and doesn't cost much.
+
+Just don't buy the Probe Bahncards. These are valid for 3 months and let you try out the discount - but you need to give 3 months notice to cancel, so basically it is really difficult to not sign up for these and then also get signed up for the yearly card - the subscription is automatically extend a year if you don't cancel within 3 months of the previous card ending - which is hard to do as it only lasts 3 months.
+
+BahnCard 50 is pointless unless you travel with flex price tickets. It has then benefits of Bahncard 25  plus you get 50% off any flex price tickets. But as flex price tickets cost at least 50% more than standard tickets, you are not saving anything!
+
+The only reason to buy 50, is if you travel a lot and these journeys involve more than one train. In this case due to the incredibly high number of cancellations and delays DB suffers from it would be prudent to buy flex price.
+
 ---
 
 ## Issue Tracker
@@ -54,14 +67,14 @@ Description                | 2023
 -------------------------- | -----
 Cancellation               | 3
 Car on the line            | 1
-Delays                     | 2
+Delays                     | 4
 People/Animals on the line | 1
 Smoking in the toilets     | 1
 Technical Problem          | 2
 Unexploded Bomb            | 1
 Vandalism                  | 1
-**Total Issues**           | **12**
-**Trips Logged**           | **8**
+**Total Issues**           | **14**
+**Trips Logged**           | **9**
 
 I only started making notes in 2023 so all my journeys before I can't document. I would estimate that less than 5% of my travels have actually been on time and without incident in the last 3 years.
 
@@ -72,6 +85,14 @@ I only started making notes in 2023 so all my journeys before I can't document. 
 
 I didn't travel very much this year, but due to the Deutschland-Ticket I have been travelling a lot on local trains rather than long distance ones.
 
+### 26th of December - Run Forest, Run!
+
+*Stendal to Uchtspringer*
+
+The train from Uchtspringer to Stendal was delayed, and left us 3 minutes to run from platform 5 to platfrom 7 (which is at the end of platform 1).
+
+There were some people who were disabled who couldn't make this and had to wait at least an hour for the next train.
+
 ### 24th of December - Conductor Scroodge
 
 *Stendal to Leipzig*
@@ -80,7 +101,7 @@ I didn't travel very much this year, but due to the Deutschland-Ticket I have be
 
 The train was nearly on time, but again a threat was made to stop at Magdeburg if people kept smoking in the toilets.
 
-This was exactly the same train that had this issue before. The conductor, who was full of Christmas cheer, said if it happens again he will call the Police, and the Fire Brigade at Magdeburg and it will be a 2 hour delay and no one would get home.
+This issue occured earlier in the year too, on this exact train. The conductor, who was full of Christmas cheer, said if it happens again he will call the Police, and the Fire Brigade at Magdeburg and it will be a 2 hour delay and no one would get home.
 
 This was Christmas Eve, the conductor would make Charles Dickens proud. Bah, Humbug!
 
