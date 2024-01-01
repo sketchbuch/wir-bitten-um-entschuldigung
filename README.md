@@ -12,19 +12,23 @@ There is nothing magical about German trains, although I will admit that 2nd cla
 
 ...
 
+## Cancelled Trains
+
+...
+
 ---
 
 ## Issue Tracker
 
 Description            | 2023
 ---------------------- | -----
-Cancellation           | 1
+Cancellation           | 2
 Car on the line        | 1
-Delays                 | 2
+Delays                 | 4
 People on the line     | 0
 Smoking in the toilets | 1
 Strike                 | 0
-Technical Problem      | 0
+Technical Problem      | 1
 Unexploded Bomb        | 1
 
 I only started making notes in 2023 so all my journeys before I can't document. I would estimate that less than 5% of my travels have actually been on time and without incident.
@@ -80,11 +84,44 @@ Having missed a hospital appointment in Uchtspringer I eventually made it back t
 
 *Platform numbers may have been incorrect*
 
-### 2023-11-08
+### 27th of October - Another Delay
 
-### 2023-10-27
+*München to Leipzig*
 
-### 2023-10-24
+<img src="./images/2023-10-27/20231027_121457_DB Navigator.jpg" height="200" alt="DB App showing the delay for my journey from München to Leipzig"> <img src="./images/2023-10-27/20231027_122200_DB Navigator.jpg" height="200" alt="DB App showing the delay for my journey from München to Leipzig"> <img src="./images/2023-10-27/20231027_122219_DB Navigator.jpg" height="200" alt="DB App showing the delay for my journey from München to Leipzig">
+
+A delay, not too bad but if you need to change trains in Leipzig you probably won't make it.
+
+DB doesn't count anything under 5 minutes as a delay, and any trains that you need to connect with don't care either.
+
+Luckily for me, I didn't need to travel any further than Leipzig. Also my ticket was bought by my employer for a Team Event and I could travel with any train.
+
+### 24th of October - Fast train has to go slow
+
+*Leipzig to München*
+
+<img src="./images/2023-10-24/20231024_113537_DB Navigator.jpg" height="200" alt="DB App showing the delay for my journey from Leipzig to München"> <img src="./images/2023-10-24/20231024_120243_DB Navigator.jpg" height="200" alt="DB App showing the delay for my journey from Leipzig to München"> <img src="./images/2023-10-24/20231024_120616_DB Navigator.jpg" height="200" alt="DB App showing the delay for my journey from Leipzig to München"> <img src="./images/2023-10-24/20231024_122331_DB Navigator.jpg" height="200" alt="DB App showing the delay for my journey from Leipzig to München">
+
+Off to München for a Team Event with whole Lower Funnel from MediaMarktSaturn.
+
+First the rain was late, then it was cancelled due to technical issues. A new train came to replace the broken one.
+
+Of course, as always, the replacement train had different carriage numbers and less seats, so no one had any reserved seats anymore.
+
+We waited 25 minutes in the train before the announcement came that the replacement train had issues and couldn't leave the station.
+
+20 minutes later we managed to leave, but at reduced speed. Apparently the train could only travel at 80% of its normal speed. 
+
+I had a business ticket didn't need to swap trains so I didn't worry too much about this.
+
+Later, during the trip another announcement: If the speed gets any lower we will have to switch to the slow track and go via other stations as the train needs to have a minimum speed to travel on the fast train to München.
+
+Luckily, or so I thought, we were able to stay on the fast track. But then stopped in the middle of the route for an hour due to technical issues. :(
+
+What was supposed to be a fast journey of about three and a quarter hours ended up taking five an a half hours.
+
+Anyone needing to change trains in München would have definitely missed their connection.
+
 
 ### 2023-10-19
 
@@ -96,7 +133,7 @@ Having missed a hospital appointment in Uchtspringer I eventually made it back t
 
 ### 2023-09-14
 
-### 2023-08-19 Danger UXB!
+### 19th of August - Danger UXB!
 
 *Warnemünde - Leipzig*
 
@@ -104,9 +141,9 @@ I was on holiday in Warnemünder with my Partner, and on the way back - about 20
 
 After a while we got told that a Bomb had been unearthed near Rostock Station and that we would have to go back to Warnemünde.
 
-On the way back we got told by conductors that (in english and german) about the bomb and that there would be busses waiting for us. I told my partner not to get her hopes up.
+Whilst travelling back we got told by conductors (in english and german) that about the bomb and that there would be busses waiting for us. I told my partner not to get her hopes up.
 
-We arrived back at Warnemünde to find that there was no trains any more, there was also no bus like we had been told - what a shocker!
+We arrived back at Warnemünde to find that there was no trains any more, there was also no bus like we had been promised - what a shocker!
 
 An old german woman was complaining to DB employees and asking where the bus was - they said they had no idea and carried on smoking and talking about what they were going to do after work.
 
