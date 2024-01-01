@@ -27,6 +27,8 @@ You should then cancel the subscription a few days after buying it. Just make su
 
 Also note, that several popular tourist destinations are not valid with the DT even if you travel on local trains - DB trying to milk tourist for all they can get.
 
+DB know that there are more people too, but do they increse the size or frequency of the local trains? Nope... this way they can force people to buy more expensive regional train tickets.
+
 ## Cancelled Trains
 
 DB loves to cancel trains... and they delight in sending you emails informing you too. What they don't tell you is that the trains are replaced so if you are new in germany you might panic and think you need to buy a new ticket - one wonders if they do this on purpose.
