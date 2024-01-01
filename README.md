@@ -179,7 +179,7 @@ Anyone needing to change trains in München would have definitely missed their c
 
 *Dessau to Leipzig*
 
-<img src="./images/2023-10-16/" height="200" alt="DB App showing the delay for my journey from Dessau to Leipzig due to animals on the line">
+<img src="./images/2023-10-16/20231016_195308_DB Navigator.jpg" height="200" alt="DB App showing the delay for my journey from Dessau to Leipzig due to animals on the line">
 
 Again, things on the line that shouldn't be there - this time it's animals - with delays also caused by huge numbers of passengers.
 
