@@ -1,8 +1,8 @@
+![Wir bitten um Entschuldigung. An on-going log of every issue I experience with Deutsche Bahn (DB).](./images/docs/banner.png)
+
 # 🚝 Wir bitten um Entschuldigung 🚨
 
-An on-going log of every issue I experience with Deutsche Bahn (DB).
-
---------------------------------------------------------------------------------
+*An on-going log of every issue I experience with Deutsche Bahn (DB).*
 
 People who have never lived in Germany often cite it as a reliable, punctual country where everything runs on time. The truth is that DB trains are as late, cancelled, or delayed as trains in Italy, the UK, or Ireland - or anywhere else for that matter.
 
