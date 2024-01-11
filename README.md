@@ -19,7 +19,7 @@ But the operators have forced it to be a subscription ticket as they don't want 
 
 You can't buy it from a machine, you have to waste hours at a local travel company service centre or the DB service centre getting the ticket.
 
-If you are a tourist staying several weeks it would be cheaper to buy a Duetschland-Ticket subscription (which my partner did this summer for 1 month) then buy regular tickets.
+If you are a tourist staying several weeks it would be cheaper to buy a Deutschland-Ticket subscription (which my partner did this summer for 1 month) then buy regular tickets.
 
 Getting it from DB is the easiest as you don't need to wait for a physical card. It is all done in the app.
 
@@ -173,7 +173,7 @@ Later, during the trip another announcement: If the speed gets any lower we will
 
 Luckily, or so I thought, we were able to stay on the fast track. But then stopped in the middle of the route for an hour due to technical issues. :(
 
-What was supposed to be a fast journey of about three and a quarter hours ended up taking five an a half hours.
+What was supposed to be a fast journey of about three and a quarter hours ended up taking five and a half hours.
 
 Anyone needing to change trains in München would have definitely missed their connection.
 
