@@ -21,7 +21,7 @@ You can't buy it from a machine, you have to waste hours at a local travel compa
 
 If you are a tourist staying several weeks it would be cheaper to buy a Deutschland-Ticket subscription (which my partner did this summer for 1 month) then buy regular tickets.
 
-Getting it from DB is the easiest as you don't need to wait for a physical card. It is all done in the app.
+Getting it from DB is the easiest as you don't need to wait for a physical card. It is all done in the app, but you still need to go to a DB service center.
 
 You should then cancel the subscription a few days after buying it. Just make sure this is done in-app before the end of the month or you will get charged for the next month too.
 
@@ -57,9 +57,11 @@ There are various discounts, if you are only travelling infrequently and don't n
 
 Just don't buy the Probe Bahncards. These are valid for 3 months and let you try out the discount - but you need to give 3 months notice to cancel, so basically it is really difficult to not sign up for these and then also get signed up for the yearly card - the subscription is automatically extend a year if you don't cancel within 3 months of the previous card ending - which is hard to do as it only lasts 3 months.
 
-BahnCard 50 is pointless unless you travel with flex price tickets. It has then benefits of Bahncard 25  plus you get 50% off any flex price tickets. But as flex price tickets cost at least 50% more than standard tickets, you are not saving anything!
+BahnCard 50 is pointless unless you travel with flex price tickets. It has then the benefits of a Bahncard 25 plus you get 50% off any flex price tickets. But as flex price tickets cost at least 50% more than standard tickets, you are not saving anything!
 
 The only reason to buy 50, is if you travel a lot and these journeys involve more than one train. In this case due to the incredibly high number of cancellations and delays DB suffers from it would be prudent to buy flex price.
+
+This is one oif the thing that is better in the UK. All tickets are flexprice - having to pay extra is a frechheit considering how stupidly expensive the tickets are anyway.
 
 ---
 
@@ -78,7 +80,7 @@ Vandalism                  | 1
 **Total Issues**           | **14**
 **Trips Logged**           | **9**
 
-I only started making notes in 2023 so all my journeys before I can't document. I would estimate that less than 5% of my travels have actually been on time and without incident in the last 3 years.
+I only started making notes in 2023 so I can't document all my journeys before. I would estimate that less than 5% of my travels have actually been on time and without incident in the last 3 years.
 
 ## 2023
 
@@ -93,7 +95,7 @@ I didn't travel very much this year, but due to the Deutschland-Ticket I have be
 
 The train from Uchtspringer to Stendal was delayed, and left us 3 minutes to run from platform 5 to platfrom 7 (which is at the end of platform 1).
 
-There were some people who were disabled who couldn't make this and had to wait at least two hours for the next train - they only run every two hours on weekends and holidays.
+There were some people who were disabled who couldn't make this and had to wait at least two hours for the next train - they only run every two hours on weekends and holidays between Stendal and Uchtspringer.
 
 ### 24th of December - Conductor Scroodge
 
@@ -103,13 +105,13 @@ There were some people who were disabled who couldn't make this and had to wait 
 
 The train was nearly on time, but again a threat was made to stop at Magdeburg if people kept smoking in the toilets.
 
-This issue occured earlier in the year too, on this exact train. The conductor, who was full of Christmas cheer, said if it happens again he will call the Police, and the Fire Brigade at Magdeburg and it will be a 2 hour delay and no one would get home.
+This issue occured earlier in the year too, on this exact same train. The conductor, who was full of Christmas cheer, said if it happens again he will call the Police and the Fire Brigade at Magdeburg and it will mean a 2 hour delay and no one would get home.
 
 This was Christmas Eve, the conductor would make Charles Dickens proud. Bah, Humbug!
 
 Just like on the previous occassion there was no evidence of any smoking, just shoddy old trains which probably have defective smoke detectors. Or the conductor just likes demonstrating his power and enjoys scaring the old people travelling on the train.
 
-Eventually made it Leipzig about 5 minutes lat due to stopping to let other trains past.
+Eventually made it Leipzig about 5 minutes late due to stopping to let other trains pass.
 
 ### 18th of December - Idiot decides to drive across the railway tracks
 
@@ -159,7 +161,7 @@ Luckily for me, I didn't need to travel any further than Leipzig. Also my ticket
 
 Off to München for a Team Event with whole Lower Funnel from MediaMarktSaturn.
 
-First the rain was late, then it was cancelled due to technical issues. A new train came to replace the broken one.
+First the train was late, then it was cancelled due to technical issues. A new train came to replace the broken one.
 
 Of course, as always, the replacement train had different carriage numbers and less seats, so no one had any reserved seats anymore.
 
@@ -169,7 +171,7 @@ We waited 25 minutes in the train before the announcement came that the replacem
 
 I had a business ticket didn't need to swap trains so I didn't worry too much about this.
 
-Later, during the trip another announcement: If the speed gets any lower we will have to switch to the slow track and go via other stations as the train needs to have a minimum speed to travel on the fast train to München.
+Later, during the trip another announcement: If the speed gets any lower we will have to switch to the slow track and go via other stations as the train needs to have a minimum speed to travel on the fast track to München.
 
 Luckily, or so I thought, we were able to stay on the fast track. But then stopped in the middle of the route for an hour due to technical issues. :(
 
@@ -183,9 +185,9 @@ Anyone needing to change trains in München would have definitely missed their c
 
 <img src="./images/2023-10-16/20231016_195308_DB Navigator.jpg" height="200" alt="DB App showing the delay for my journey from Dessau to Leipzig due to animals on the line">
 
-Again, things on the line that shouldn't be there - this time it's animals - with delays also caused by huge numbers of passengers.
+Again, things on the line that shouldn't be there - this time it's animals.
 
-This wouldn't be an issue if DB would lengthen and increase the number of local trains - It's not like they could claim not to know what effect the Deutschland-Ticket would have on passenger numbers.
+There were also delays caused by huge numbers of passengers. This wouldn't be an issue if DB would lengthen and increase the number of local trains - It's not like they could claim not to know what effect the Deutschland-Ticket would have on passenger numbers.
 
 ### 4th of October - Zero minutes to change trains
 
@@ -221,7 +223,7 @@ I was on holiday in Warnemünder with my Partner, and on the way back - about 20
 
 After a while we got told that a Bomb had been unearthed near Rostock Station and that we would have to go back to Warnemünde.
 
-Whilst travelling back we got told by conductors (in english and german) that about the bomb and that there would be busses waiting for us. I told my partner not to get her hopes up.
+Whilst travelling back we got told by conductors (in english and german) about the bomb and that there would be busses waiting for us. I told my partner not to get her hopes up.
 
 We arrived back at Warnemünde to find that there was no trains any more, there was also no bus like we had been promised - what a shocker!
 
