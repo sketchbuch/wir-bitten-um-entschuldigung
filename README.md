@@ -61,7 +61,7 @@ BahnCard 50 is pointless unless you travel with flex price tickets. It has then 
 
 The only reason to buy 50, is if you travel a lot and these journeys involve more than one train. In this case due to the incredibly high number of cancellations and delays DB suffers from it would be prudent to buy flex price.
 
-This is one oif the thing that is better in the UK. All tickets are flexprice - having to pay extra is a frechheit considering how stupidly expensive the tickets are anyway.
+This is one of the things that is better in the UK - all tickets are flexprice! Having to pay extra is a frechheit considering how stupidly expensive the tickets are and the number of delays/cancellations DB has.
 
 ---
 
